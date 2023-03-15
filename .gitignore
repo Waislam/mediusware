@@ -34,6 +34,7 @@ venv.bak/
 !**/migrations/__init__.py
 
 db.sqlite3
+
 db.sqlite3-journal
 *.so
 .idea
